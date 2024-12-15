@@ -4,6 +4,11 @@ This is a domain for sale page.
 
 > Vue3 + Vite + TS + TailwindCss.
 
+## On sale
+
+> [Aitlog.com](https://aitlog.com)
+> [MainGamers](https://maingamers.com)
+
 ## Page
 
 ![image](https://github.com/user-attachments/assets/92fb9796-eb09-439f-b89d-d8eee6686aa3)
