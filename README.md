@@ -6,8 +6,8 @@ This is a domain for sale page.
 
 ## On sale
 
-> [Aitlog.com](https://aitlog.com)
-> [MainGamers](https://maingamers.com)
+- [Aitlog.com](https://aitlog.com)
+- [MainGamers](https://maingamers.com)
 
 ## Page
 
