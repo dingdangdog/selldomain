@@ -1,5 +1,21 @@
-# Vue 3 + TypeScript + Vite
+# SellDomain
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a domain for sale page.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+> Vue3 + Vite + TS + TailwindCss.
+
+## Page
+
+![image](https://github.com/user-attachments/assets/92fb9796-eb09-439f-b89d-d8eee6686aa3)
+
+## GetStarted
+
+1. Modify the environment variable value in the [.env](./.env) file.
+
+```sh
+VITE_DOMAIN=AitLog.COM
+VITE_EMAIL=contact@aitlog.com
+```
+
+2. Run `npm run build-only` in Command Line.
+3. Deploy Your `dist`.
